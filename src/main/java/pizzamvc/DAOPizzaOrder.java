@@ -17,7 +17,7 @@ import java.util.Scanner;
  * from a file or if only a single user writes to a file. Because of this a
  * multiuser database approach is often preferred.
  *
- * @author John Phillips
+ * @author Rob Shea
  */
 public class DAOPizzaOrder {
 
